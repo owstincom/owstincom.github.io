@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+
+}
+
+img {
+  padding: inherit;
+  margin:auto;
+  width: 650px;
+  display: block;
+}
